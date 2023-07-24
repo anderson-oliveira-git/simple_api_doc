@@ -1,6 +1,6 @@
+![imagem](https://github.com/anderson-oliveira-git/simple_api_doc/assets/6682086/67e377a6-4d5a-47da-8e66-6c8402c69d7a)
 # simple_api_doc
  inspired by swagger, but with less functionality. It just documents the end points.
-
 
 ## how to use?
 just add one more object to the array of routes objects. 
