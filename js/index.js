@@ -18,6 +18,7 @@ const template = (options = {}) => {
   `;
 }
 
+
 function addTitleToTop () {
   const subTitle = document.createElement('div');
   subTitle.innerHTML = title.secondary;

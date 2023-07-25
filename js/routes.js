@@ -16,12 +16,13 @@ export const routes = [
   },
   {
     method: 'put',
-    route: '/create/user/{id}',
-    comment: 'Rota que atualiza um usário especifico pelo id.'
+    route: '/update/user/{id}',
+    comment: 'Rota que atualiza um usuário especifico pelo id.'
   },
   {
     method: 'delete',
     route: '/delete/user/{id}',
-    comment: 'Rota que deleta um usário especifico pelo id.'
-  },
+    comment: 'Rota que deleta um usuário especifico pelo id.'
+  }
 ];
+
